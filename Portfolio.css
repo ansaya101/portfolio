@@ -1,0 +1,31 @@
+button {
+    background-image: aqua;
+    border: none;
+    color: blueviolet;
+    padding:15px 32px;
+    width: 300px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+ 
+}
+body{
+    background-color: blueviolet;
+}
+*{
+    box-sizing: margin-box;
+    padding: 10px; 
+}
+.cat {
+    width: 50px;
+    position: relative;
+    left: 1250px;
+    top: -100px;
+    background-color: transparent;
